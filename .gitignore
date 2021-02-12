@@ -8,6 +8,10 @@
 *.ear
 *.nar
 hs_err_pid*
+.mvn
+/HELP.md
+/mvnw
+/mvnw.cmd
 
 ##############################
 ## Maven
